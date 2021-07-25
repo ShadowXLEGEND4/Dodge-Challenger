@@ -11,6 +11,27 @@ body{
     font-size: 14px;
 }
 
+.h3{
+    background-color: white;
+}
+
+.lineup{
+    background-color: white;
+}
+
+.banner{
+    height: 240px;
+    width: 1467px;
+}
+
+button.navbar-toggler.collapsed {
+    background-color: white;
+}
+
+button.navbar-toggler {
+    background-color: white;
+}
+
 .butt{
     font-size: 12px;
     margin-left: 140px;
