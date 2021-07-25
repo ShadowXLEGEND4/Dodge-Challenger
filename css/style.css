@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+}
+
+.fast{
+    padding-left: 105px;
+}
+
+.text1{
+    margin-left: 98px;
+    font-size: 14px;
+}
+
+.butt{
+    font-size: 12px;
+    margin-left: 140px;
+}
+
+.butt::hover{
+    color: #a30202;
+}
+
+.fast1{
+    font-size: 14px;
+    padding-left: 108px;
+}
+
+.logo{
+    width: 130px;
+    height: 18px;
+    margin-left: 15px;
+}
+
+.navLink{
+    font-size: 14px;
+}
+
+.navbar1{
+    padding-top: 18px;
+    padding-bottom: 18px;
+    background-color: black;
+}
