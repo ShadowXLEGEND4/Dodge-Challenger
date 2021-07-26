@@ -15,13 +15,93 @@ body{
     background-color: white;
 }
 
+.image{
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+}
+
+.lineup{
+    border-left: solid black 12px;
+    border-right: solid black 12px;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.bann {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+.amazon{
+    position: relative;
+  text-align: center;
+  color: white;
+  border-right: solid black 15px;
+  border-left: solid black 12px;
+}
+
+.bottom-left {
+    position: absolute;
+    left: 10px;
+    top: 100px;
+}
+
+.amazonLogo{
+    width: auto;
+    height: auto;
+    padding-left: 80px;
+}
+
+.bton{
+    margin-left: 80px;
+}
+
+
+.parr1{
+    font-size: 14px;
+}
+
+.option{
+    font-size: 9px;
+}
+
+.headCar{
+    font-size: 14px;
+}
+
 .lineup{
     background-color: white;
+}
+
+.lineup1{
+    background-color: white;
+    border-right: solid black 12px;
+    border-left: solid black 12px;
+    display: block;
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    padding-top: 90px;
 }
 
 .banner{
     height: 240px;
     width: 1467px;
+    border-right: solid black 10px;
+}
+
+.image1{
+    display: block;
+    width: 100%;
+    height: auto;
+    max-width: 100%;
 }
 
 button.navbar-toggler.collapsed {
@@ -35,6 +115,11 @@ button.navbar-toggler {
 .butt{
     font-size: 12px;
     margin-left: 140px;
+}
+
+.butt1{
+    font-size: 12px;
+    font-family: "Barlow Condensed","Roboto",sans-serif;
 }
 
 .butt::hover{
